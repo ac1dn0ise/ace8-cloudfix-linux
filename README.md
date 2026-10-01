@@ -1,6 +1,6 @@
 # ace8-cloudfix-linux
 
-Workaround for a shader compilation bug in **Ace Combat 8: Wings of the Theve**
+Workaround for a shader compilation bug in **Ace Combat 8: Wings of Theve**
 (Steam AppID 2288340) that causes volumetric clouds to disappear below the
 horizon when running on NVIDIA GPUs under Proton on Linux.
 
