@@ -158,7 +158,8 @@ warning, the patch may still work but should be verified in-game.
 
 The original analysis and manual fix were described by
 [`empty-quiver`](https://github.com/ValveSoftware/Proton/issues/10198) in the
-Proton issue tracker. Thank you very much!
+Proton issue tracker. Thank you very much! 
+He made his own script, go check it! https://github.com/empty-quiver/ac8-cloud-patcher
 
 ## License
 
