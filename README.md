@@ -4,6 +4,9 @@ Workaround for a shader compilation bug in **Ace Combat 8: Wings of the Theve**
 (Steam AppID 2288340) that causes volumetric clouds to disappear below the
 horizon when running on NVIDIA GPUs under Proton on Linux.
 
+![Overridden Shaders](clouy.png)
+![Default Shaders](cloudless.png)
+
 ## Usage
 
 ### 1. Dump the shaders
