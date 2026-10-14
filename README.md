@@ -148,14 +148,12 @@ For a full description of the mechanism and the original manual fix, see
 
 ## Compatibility
 
-Tested on an RTX 3090 with GE-Proton11-7. The bug is a shader-level issue, so
-the Proton version should not matter, only that the game uses the same shader
-hashes.
+If you run current Proton hotfix he now compiles them correctly!
 
 If the game is updated and the shader hashes change, the 'discover' command will find a
 different set. The tool warns when the discovered count differs from the
 known-good reference of 16 and when the hashes don't match. If you see either
-warning, the patch may still work but should be verified in-game.
+warning. Of course this is only pertinent if you are running older Proton versions.
 
 ## Credits
 
